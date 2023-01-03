@@ -6,16 +6,21 @@
 }
 .pera1{
     font-size: 15px;
-    color: crimson;
+    color: palevioletred;
+  
 }
 .div1{
-    background-color: aqua;
+    background-color:indigo;
+    border-top: 10px solid red;
+    border-radius: 20px;
+    margin: 20px 50px ;
 }
 .heading2{
     font-size: 30px;
     color: blue;
     text-align: center;
     text-decoration: underline;
+
 
 
     
@@ -26,6 +31,9 @@
 }
 .div2{
     background-color: aqua;
+    border-bottom: 10px solid navy;
+    border-radius: 20px;
+    margin: 20px 50px;
 }
 .heading3{
     font-size: 30px;
@@ -34,5 +42,7 @@
     text-decoration: underline;
 }
 .div3{
-    background-color: aqua;
+    background-color: darkred;
+    border: 10px solid gold;
+    margin: 20px 50px;
 }
