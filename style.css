@@ -1,0 +1,32 @@
+.heading1{
+    font-size: 30px;
+    color: greenyellow;
+    text-align: center;
+}
+.pera1{
+    font-size: 15px;
+    color: crimson;
+}
+.div1{
+    background-color: aqua;
+}
+.heading2{
+    font-size: 30px;
+    color: blue;
+    text-align: center
+}
+.pera2{
+    color: brown;
+    font-size: 15;
+}
+.div2{
+    background-color: aqua;
+}
+.heading3{
+    font-size: 30px;
+    color: green;
+    text-align: center;
+}
+.div3{
+    background-color: aqua;
+}
