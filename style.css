@@ -2,6 +2,7 @@
     font-size: 30px;
     color: greenyellow;
     text-align: center;
+    text-decoration: underline;
 }
 .pera1{
     font-size: 15px;
@@ -13,7 +14,11 @@
 .heading2{
     font-size: 30px;
     color: blue;
-    text-align: center
+    text-align: center;
+    text-decoration: underline;
+
+
+    
 }
 .pera2{
     color: brown;
@@ -26,6 +31,7 @@
     font-size: 30px;
     color: green;
     text-align: center;
+    text-decoration: underline;
 }
 .div3{
     background-color: aqua;
